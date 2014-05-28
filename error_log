@@ -1,0 +1,25 @@
+[27-May-2014 09:57:17 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/ryanb/public_html/pl_eval2/index.php on line 63
+[27-May-2014 09:59:39 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/ryanb/public_html/pl_eval2/index.php on line 63
+[27-May-2014 09:59:48 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/ryanb/public_html/pl_eval2/index.php on line 63
+[27-May-2014 09:59:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/ryanb/public_html/pl_eval2/index.php on line 63
+[27-May-2014 10:10:52 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/ryanb/public_html/pl_eval2/index.php on line 154
+[27-May-2014 10:11:11 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 154
+[27-May-2014 10:11:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 154
+[27-May-2014 10:11:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/ryanb/public_html/pl_eval2/index.php on line 149
+[27-May-2014 10:12:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/ryanb/public_html/pl_eval2/index.php on line 150
+[27-May-2014 10:21:44 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/ryanb/public_html/pl_eval2/index.php on line 138
+[27-May-2014 10:22:34 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/ryanb/public_html/pl_eval2/index.php on line 138
+[27-May-2014 10:22:53 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/ryanb/public_html/pl_eval2/index.php on line 141
+[27-May-2014 10:24:25 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/ryanb/public_html/pl_eval2/index.php on line 173
+[27-May-2014 10:32:22 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/ryanb/public_html/pl_eval2/index.php on line 117
+[27-May-2014 10:33:50 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 117
+[27-May-2014 10:34:06 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 117
+[27-May-2014 10:34:28 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 117
+[27-May-2014 10:34:34 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 117
+[27-May-2014 10:37:07 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 117
+[27-May-2014 10:37:22 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 117
+[27-May-2014 10:38:39 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 118
+[27-May-2014 10:42:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 119
+[27-May-2014 10:42:36 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/ryanb/public_html/pl_eval2/index.php on line 119
+[28-May-2014 09:37:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ryanb/public_html/pl_eval2/header.inc:5) in /home/ryanb/public_html/pl_eval2/header.inc on line 5
+[28-May-2014 09:39:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ryanb/public_html/pl_eval2/header.inc:5) in /home/ryanb/public_html/pl_eval2/header.inc on line 5
